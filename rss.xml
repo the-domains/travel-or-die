@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Travel Or Die]]></title>
+        <description><![CDATA[Travel Or Die]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 01:55:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First flight to Colombo, Sri Lanka ]]></title>
+            <description><![CDATA[<article><h1>First flight to Colombo, Sri Lanka </h1><p>First flight to Colombo, Sri Lanka</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93986e2a-0718-4389-aeb1-f5f0cae570ac.png"></article>]]></description>
+            <link>undefinedfirst-flight-to-colombo-sri-lanka/index.html</link>
+            <guid isPermaLink="false">df1f558f-1901-4b34-a087-ec6379b62373</guid>
+            <pubDate>Wed, 06 Apr 2016 01:55:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

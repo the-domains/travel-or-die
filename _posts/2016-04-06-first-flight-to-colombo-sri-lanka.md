@@ -1,14 +1,15 @@
 ---
 description: 'First flight to Colombo, Sri Lanka'
 author: []
-datePublished: '2016-04-06T01:55:10.843Z'
+datePublished: '2016-04-06T02:04:01.894Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: 'First flight to Colombo, Sri Lanka '
-dateModified: '2016-04-06T01:54:38.956Z'
+dateModified: '2016-04-06T01:56:12.756Z'
 sourcePath: _posts/2016-04-06-first-flight-to-colombo-sri-lanka.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false

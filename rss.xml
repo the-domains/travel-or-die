@@ -4,21 +4,21 @@
         <description><![CDATA[Travel Or Die]]></description>
         <link>https://thegrid.ai/travel-or-die/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 02:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 02:04:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/travel-or-die/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First flight to Colombo, Sri Lanka ]]></title>
+            <description><![CDATA[<article><h1>First flight to Colombo, Sri Lanka </h1><p>First flight to Colombo, Sri Lanka</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93986e2a-0718-4389-aeb1-f5f0cae570ac.png"></article>]]></description>
+            <link>https://thegrid.ai/travel-or-die/first-flight-to-colombo-sri-lanka/index.html</link>
+            <guid isPermaLink="false">df1f558f-1901-4b34-a087-ec6379b62373</guid>
+            <pubDate>Wed, 06 Apr 2016 02:04:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b98c16a-458e-486a-babb-183a43510284.jpg">]]></description>
             <link>https://thegrid.ai/travel-or-die/87999dae-ed11-4730-b438-ebdfedf86e0c/index.html</link>
             <guid isPermaLink="false">87999dae-ed11-4730-b438-ebdfedf86e0c</guid>
             <pubDate>Wed, 06 Apr 2016 02:03:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First flight to Colombo, Sri Lanka ]]></title>
-            <description><![CDATA[<article><h1>First flight to Colombo, Sri Lanka </h1><p>First flight to Colombo, Sri Lanka</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93986e2a-0718-4389-aeb1-f5f0cae570ac.png"></article>]]></description>
-            <link>https://thegrid.ai/travel-or-die/first-flight-to-colombo-sri-lanka/index.html</link>
-            <guid isPermaLink="false">df1f558f-1901-4b34-a087-ec6379b62373</guid>
-            <pubDate>Wed, 06 Apr 2016 01:55:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
